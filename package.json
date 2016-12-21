@@ -1,0 +1,25 @@
+{
+  "name": "response-menu",
+  "version": "1.0.0",
+  "description": "a menu compatible with PC and mobile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuzilingdang/response-menu.git"
+  },
+  "keywords": [
+    "menu",
+    "response",
+    "PC",
+    "mobile"
+  ],
+  "author": "April",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuzilingdang/response-menu/issues"
+  },
+  "homepage": "https://github.com/tuzilingdang/response-menu#readme"
+}
